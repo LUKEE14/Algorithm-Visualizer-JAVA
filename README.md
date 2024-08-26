@@ -7,9 +7,13 @@
   Visualization of Sorting Algorithms:
 
   Bubble Sort: Watch how the algorithm compares and swaps adjacent elements to sort the array.
+
   Merge Sort: Observe the divide-and-conquer approach, where the array is split and merged back in sorted order.
+
   Insertion Sort: See how the algorithm builds the sorted array one element at a time.
+
   Selection Sort: View how the algorithm repeatedly selects the smallest element from the unsorted portion and swaps it with the first unsorted element.
+  
   Minimal Interface: The application features a clean and intuitive user interface, allowing users to focus on the algorithm's process without distractions.
 
 ## How To run ?
@@ -17,7 +21,7 @@
   Type these commands in terminal
 
   javac AlgorithmVisualizer.java
-  
+
   java AlgorithmVisualizer
 
 ## Technologies Used
