@@ -15,7 +15,9 @@
 ## How To run ?
 
   Type these commands in terminal
+
   javac AlgorithmVisualizer.java
+  
   java AlgorithmVisualizer
 
 ## Technologies Used
